@@ -1,3 +1,9 @@
+# About Fork
+This is not heavily modified, small changes (for now) version
+(to pcan/author of java4d - it supports S.W.I.N.E. Models, however you cant create new models and you should continue working on it
+also please contact me on my site)
+
+---Bellow is original pcan/java-4d---
 # java-4d
 
 A 3D model editor for Codename Panzers game. 
